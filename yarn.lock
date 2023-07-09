@@ -2447,9 +2447,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-libs/demo@workspace:playground/demo":
+"@react-libs/demo@workspace:apps/demo":
   version: 0.0.0-use.local
-  resolution: "@react-libs/demo@workspace:playground/demo"
+  resolution: "@react-libs/demo@workspace:apps/demo"
   dependencies:
     "@types/node": 20.2.5
     "@types/react": 18.2.7
@@ -2467,9 +2467,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@react-libs/playground@workspace:playground/playground":
+"@react-libs/playground@workspace:apps/playground":
   version: 0.0.0-use.local
-  resolution: "@react-libs/playground@workspace:playground/playground"
+  resolution: "@react-libs/playground@workspace:apps/playground"
   dependencies:
     "@testing-library/jest-dom": ^5.16.5
     "@testing-library/react": ^13.4.0

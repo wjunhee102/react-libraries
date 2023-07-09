@@ -7,7 +7,7 @@
   "packageManager": "yarn@3.5.1",
   "private": true,
   "workspaces": [
-    "playground/*",
+    "apps/*",
     "packages/*"
   ],
   "devDependencies": {
